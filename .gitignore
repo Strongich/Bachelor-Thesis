@@ -2,10 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.pth
 # C extensions
 *.so
-
+# just my file
+*L2_options_20190830.csv
 # Distribution / packaging
 .Python
 build/
