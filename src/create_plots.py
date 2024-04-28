@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 
 
 def analyze_series(series):
+    plt.figure(figsize=(12, 6))
     # 1. Output describe()
     describe_output = series.describe()
     print("Describe:")
@@ -16,7 +17,10 @@ def analyze_series(series):
     print("Skewness:", series_skewness)
     print("Kurtosis:", series_kurtosis)
     plt.hist(series)
-
+    plt.xlabel("Price")
+    plt.grid(True)
+    plt.show()
+    
 
 def plot_dictionaries(dict1, dict2, initial_train, initial_val, save_path=None):
     fig, axes = plt.subplots(1, 2, figsize=(12, 6))  # Create a figure with two subplots
