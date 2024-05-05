@@ -1,0 +1,108 @@
+2024-04-14 17:12:23,019 - root - INFO - Running on device=cuda
+2024-04-14 17:12:23,420 - root - INFO - N_EPOCH: 20
+2024-04-14 17:12:23,420 - root - INFO - LEARNING_RATE: 5e-05
+2024-04-14 17:12:23,420 - root - INFO - HIDDEN_LAYER: 20
+2024-04-14 17:12:23,420 - root - INFO - HIDDEN_WIDTH: 32
+2024-04-14 17:12:23,421 - root - INFO - EXPERIMENT_NAME: exp_call_4
+2024-04-14 17:12:23,421 - root - INFO - Model type: Call_2
+2024-04-14 17:12:24,242 - root - INFO - Initial MSE train: 52.5664, Initial MSE val: 28.8108
+2024-04-14 17:13:02,078 - root - INFO - Total number of learnable parameters: 65227
+2024-04-14 17:13:36,272 - root - INFO - Optimizer: SGD
+2024-04-14 17:13:37,555 - root - INFO - Epoch 1, train loss: 46.4630, test loss: 31.4588
+2024-04-14 17:13:38,642 - root - INFO - Epoch 2, train loss: 42.8836, test loss: 22.0223
+2024-04-14 17:13:39,822 - root - INFO - Epoch 3, train loss: 41.6128, test loss: 64.7302
+2024-04-14 17:13:40,950 - root - INFO - Epoch 4, train loss: 42.5171, test loss: 68.9440
+2024-04-14 17:13:42,112 - root - INFO - Epoch 5, train loss: 41.4127, test loss: 20.6320
+2024-04-14 17:13:43,228 - root - INFO - Epoch 6, train loss: 41.4196, test loss: 20.2053
+2024-04-14 17:13:44,369 - root - INFO - Epoch 7, train loss: 41.5945, test loss: 20.0894
+2024-04-14 17:13:45,498 - root - INFO - Epoch 8, train loss: 41.0380, test loss: 124.1810
+2024-04-14 17:13:46,664 - root - INFO - Epoch 9, train loss: 41.0965, test loss: 22.4309
+2024-04-14 17:13:47,800 - root - INFO - Epoch 10, train loss: 41.1559, test loss: 90.6389
+2024-04-14 17:13:48,936 - root - INFO - Epoch 11, train loss: 40.9339, test loss: 18.1259
+2024-04-14 17:13:50,131 - root - INFO - Epoch 12, train loss: 40.6194, test loss: 24.1646
+2024-04-14 17:13:51,267 - root - INFO - Epoch 13, train loss: 40.4246, test loss: 91.2336
+2024-04-14 17:13:52,442 - root - INFO - Epoch 14, train loss: 40.1089, test loss: 18.6929
+2024-04-14 17:13:53,568 - root - INFO - Epoch 15, train loss: 41.1348, test loss: 19.8371
+2024-04-14 17:13:54,668 - root - INFO - Epoch 16, train loss: 40.3228, test loss: 23.5618
+2024-04-14 17:13:55,744 - root - INFO - Epoch 17, train loss: 41.1532, test loss: 19.5270
+2024-04-14 17:13:56,960 - root - INFO - Epoch 18, train loss: 40.7533, test loss: 18.7998
+2024-04-14 17:13:58,113 - root - INFO - Epoch 19, train loss: 40.1998, test loss: 26.9392
+2024-04-14 17:13:59,227 - root - INFO - Epoch 20, train loss: 39.9749, test loss: 21.1456
+2024-04-14 17:13:59,228 - root - INFO - Optimizer: RMSprop
+2024-04-14 17:14:00,589 - root - INFO - Epoch 1, train loss: 39.3357, test loss: 18.4638
+2024-04-14 17:14:01,972 - root - INFO - Epoch 2, train loss: 39.4926, test loss: 18.8416
+2024-04-14 17:14:03,069 - root - INFO - Epoch 3, train loss: 39.0860, test loss: 17.7943
+2024-04-14 17:14:04,168 - root - INFO - Epoch 4, train loss: 38.8359, test loss: 17.6064
+2024-04-14 17:14:05,274 - root - INFO - Epoch 5, train loss: 38.7082, test loss: 18.3976
+2024-04-14 17:14:06,438 - root - INFO - Epoch 6, train loss: 38.9248, test loss: 17.5643
+2024-04-14 17:14:07,527 - root - INFO - Epoch 7, train loss: 38.8575, test loss: 19.1173
+2024-04-14 17:14:08,628 - root - INFO - Epoch 8, train loss: 38.1958, test loss: 40.8741
+2024-04-14 17:14:09,755 - root - INFO - Epoch 9, train loss: 38.5661, test loss: 19.4633
+2024-04-14 17:14:10,947 - root - INFO - Epoch 10, train loss: 38.0722, test loss: 18.9987
+2024-04-14 17:14:12,149 - root - INFO - Epoch 11, train loss: 40.0665, test loss: 19.1178
+2024-04-14 17:14:13,220 - root - INFO - Epoch 12, train loss: 38.2841, test loss: 18.6972
+2024-04-14 17:14:14,314 - root - INFO - Epoch 13, train loss: 38.0835, test loss: 16.9041
+2024-04-14 17:14:15,390 - root - INFO - Epoch 14, train loss: 38.5272, test loss: 40.4011
+2024-04-14 17:14:16,520 - root - INFO - Epoch 15, train loss: 38.6782, test loss: 17.2512
+2024-04-14 17:14:17,675 - root - INFO - Epoch 16, train loss: 38.0321, test loss: 19.9199
+2024-04-14 17:14:18,785 - root - INFO - Epoch 17, train loss: 44.6098, test loss: 27.9661
+2024-04-14 17:14:19,859 - root - INFO - Epoch 18, train loss: 38.2239, test loss: 29.5228
+2024-04-14 17:14:20,981 - root - INFO - Epoch 19, train loss: 38.6440, test loss: 17.0839
+2024-04-14 17:14:22,081 - root - INFO - Epoch 20, train loss: 38.3302, test loss: 16.7226
+2024-04-14 17:14:22,081 - root - INFO - Optimizer: Adam
+2024-04-14 17:14:23,252 - root - INFO - Epoch 1, train loss: 38.5087, test loss: 18.2562
+2024-04-14 17:14:24,438 - root - INFO - Epoch 2, train loss: 37.7344, test loss: 17.8573
+2024-04-14 17:14:25,687 - root - INFO - Epoch 3, train loss: 38.7268, test loss: 19.8781
+2024-04-14 17:14:26,905 - root - INFO - Epoch 4, train loss: 38.1349, test loss: 19.1212
+2024-04-14 17:14:28,097 - root - INFO - Epoch 5, train loss: 37.3549, test loss: 17.2888
+2024-04-14 17:14:29,268 - root - INFO - Epoch 6, train loss: 37.3062, test loss: 19.7214
+2024-04-14 17:14:30,451 - root - INFO - Epoch 7, train loss: 38.3120, test loss: 17.5195
+2024-04-14 17:14:31,610 - root - INFO - Epoch 8, train loss: 38.0921, test loss: 17.6908
+2024-04-14 17:14:32,803 - root - INFO - Epoch 9, train loss: 37.9857, test loss: 31.6634
+2024-04-14 17:14:34,026 - root - INFO - Epoch 10, train loss: 37.8809, test loss: 17.6741
+2024-04-14 17:14:35,210 - root - INFO - Epoch 11, train loss: 38.1625, test loss: 17.1761
+2024-04-14 17:14:36,417 - root - INFO - Epoch 12, train loss: 37.4309, test loss: 71.2717
+2024-04-14 17:14:37,576 - root - INFO - Epoch 13, train loss: 37.3021, test loss: 31.4093
+2024-04-14 17:14:38,716 - root - INFO - Epoch 14, train loss: 37.9657, test loss: 40.5537
+2024-04-14 17:14:39,942 - root - INFO - Epoch 15, train loss: 37.0106, test loss: 20.3022
+2024-04-14 17:14:41,087 - root - INFO - Epoch 16, train loss: 39.6263, test loss: 48.3100
+2024-04-14 17:14:42,263 - root - INFO - Epoch 17, train loss: 38.1051, test loss: 39.7766
+2024-04-14 17:14:43,504 - root - INFO - Epoch 18, train loss: 38.1373, test loss: 18.6880
+2024-04-14 17:14:44,666 - root - INFO - Epoch 19, train loss: 37.1986, test loss: 60.6019
+2024-04-14 17:14:45,855 - root - INFO - Epoch 20, train loss: 37.9232, test loss: 119.2567
+2024-04-14 17:14:45,855 - root - INFO - Optimizer: Adamax
+2024-04-14 17:14:47,444 - root - INFO - Epoch 1, train loss: 38.8639, test loss: 55.4501
+2024-04-14 17:14:49,003 - root - INFO - Epoch 2, train loss: 38.1196, test loss: 17.3340
+2024-04-14 17:14:50,563 - root - INFO - Epoch 3, train loss: 39.2525, test loss: 19.4231
+2024-04-14 17:14:52,189 - root - INFO - Epoch 4, train loss: 37.3180, test loss: 19.3240
+2024-04-14 17:14:53,808 - root - INFO - Epoch 5, train loss: 36.9922, test loss: 18.5354
+2024-04-14 17:14:55,436 - root - INFO - Epoch 6, train loss: 36.7548, test loss: 17.0087
+2024-04-14 17:14:57,046 - root - INFO - Epoch 7, train loss: 37.3665, test loss: 18.9362
+2024-04-14 17:14:58,577 - root - INFO - Epoch 8, train loss: 37.5756, test loss: 20.1625
+2024-04-14 17:15:00,152 - root - INFO - Epoch 9, train loss: 36.4428, test loss: 18.9348
+2024-04-14 17:15:01,776 - root - INFO - Epoch 10, train loss: 38.7741, test loss: 17.4923
+2024-04-14 17:15:03,320 - root - INFO - Epoch 11, train loss: 37.6493, test loss: 17.5253
+2024-04-14 17:15:04,903 - root - INFO - Epoch 12, train loss: 36.7402, test loss: 23.6937
+2024-04-14 17:15:06,489 - root - INFO - Epoch 13, train loss: 37.5128, test loss: 28.5118
+2024-04-14 17:15:08,034 - root - INFO - Epoch 14, train loss: 37.3253, test loss: 28.3316
+2024-04-14 17:15:09,579 - root - INFO - Epoch 15, train loss: 37.6889, test loss: 27.7633
+2024-04-14 17:15:11,126 - root - INFO - Epoch 16, train loss: 36.9033, test loss: 24.3250
+2024-04-14 17:15:12,685 - root - INFO - Epoch 17, train loss: 37.5838, test loss: 19.0231
+2024-04-14 17:15:14,271 - root - INFO - Epoch 18, train loss: 37.5009, test loss: 30.1349
+2024-04-14 17:15:15,769 - root - INFO - Epoch 19, train loss: 37.0115, test loss: 21.2106
+2024-04-14 17:15:17,302 - root - INFO - Epoch 20, train loss: 38.0074, test loss: 18.8974
+2024-04-14 17:18:57,280 - root - INFO - N_EPOCH: 30
+2024-04-14 17:18:57,280 - root - INFO - LEARNING_RATE: 5e-05
+2024-04-14 17:18:57,281 - root - INFO - HIDDEN_LAYER: 15
+2024-04-14 17:18:57,281 - root - INFO - HIDDEN_WIDTH: 64
+2024-04-14 17:18:57,281 - root - INFO - EXPERIMENT_NAME: exp_call_4_final
+2024-04-14 17:18:57,281 - root - INFO - Model type: Call_2
+2024-04-14 17:19:12,955 - root - INFO - train set size: (178573, 12)
+2024-04-14 17:19:12,955 - root - INFO - test set size: (44644, 12)
+2024-04-14 17:19:12,958 - root - INFO - Initial MSE train: 41.8312, Initial MSE val: 43.0243
+2024-04-14 17:22:58,015 - root - INFO - Total number of learnable parameters: 115403
+2024-04-14 17:24:22,747 - root - INFO - Optimizer: Adamax
+2024-04-14 17:24:23,747 - root - INFO - Epoch 1, train loss: 56.1435, test loss: 34.7263
+2024-04-14 17:24:24,691 - root - INFO - Epoch 2, train loss: 55.8468, test loss: 88.1851
+2024-04-14 17:25:28,858 - root - INFO - Total number of learnable parameters: 115403
+2024-04-14 17:25:28,869 - root - INFO - Total number of learnable parameters: 115403

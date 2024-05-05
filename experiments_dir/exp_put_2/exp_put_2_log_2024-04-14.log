@@ -1,0 +1,331 @@
+2024-04-14 11:37:47,214 - root - INFO - Running on device=cuda
+2024-04-14 11:37:47,784 - root - INFO - N_EPOCH: 20
+2024-04-14 11:37:47,784 - root - INFO - LEARNING_RATE: 0.001
+2024-04-14 11:37:47,785 - root - INFO - HIDDEN_LAYER: 10
+2024-04-14 11:37:47,785 - root - INFO - HIDDEN_WIDTH: 64
+2024-04-14 11:37:47,785 - root - INFO - EXPERIMENT_NAME: exp_put_2
+2024-04-14 11:37:47,785 - root - INFO - Model type: Put_1
+2024-04-14 11:37:49,545 - root - INFO - Initial MSE train: 14.5172, Initial MSE val: 12.2658
+2024-04-14 11:37:52,167 - root - INFO - Total number of learnable parameters: 43339
+2024-04-14 11:37:54,552 - root - INFO - Optimizer: SGD
+2024-04-14 11:37:55,997 - root - INFO - Epoch 1, train loss: 8.2801, val loss: 4.2703
+2024-04-14 11:37:57,207 - root - INFO - Epoch 2, train loss: 6.1211, val loss: 4.0264
+2024-04-14 11:37:58,340 - root - INFO - Epoch 3, train loss: 5.8715, val loss: 3.8084
+2024-04-14 11:37:59,447 - root - INFO - Epoch 4, train loss: 5.6557, val loss: 2.9943
+2024-04-14 11:38:00,655 - root - INFO - Epoch 5, train loss: 5.6830, val loss: 2.9115
+2024-04-14 11:38:01,849 - root - INFO - Epoch 6, train loss: 5.5149, val loss: 3.3504
+2024-04-14 11:38:02,973 - root - INFO - Epoch 7, train loss: 5.5177, val loss: 3.0536
+2024-04-14 11:38:04,106 - root - INFO - Epoch 8, train loss: 5.0256, val loss: 3.9502
+2024-04-14 11:38:05,291 - root - INFO - Epoch 9, train loss: 5.5223, val loss: 5.0188
+2024-04-14 11:38:06,435 - root - INFO - Epoch 10, train loss: 4.9894, val loss: 3.6488
+2024-04-14 11:38:07,539 - root - INFO - Epoch 11, train loss: 4.8720, val loss: 2.4794
+2024-04-14 11:38:08,635 - root - INFO - Epoch 12, train loss: 4.6669, val loss: 3.7633
+2024-04-14 11:38:09,731 - root - INFO - Epoch 13, train loss: 4.8440, val loss: 7.0979
+2024-04-14 11:38:10,844 - root - INFO - Epoch 14, train loss: 5.1284, val loss: 2.8412
+2024-04-14 11:38:11,948 - root - INFO - Epoch 15, train loss: 4.7485, val loss: 4.2097
+2024-04-14 11:38:13,098 - root - INFO - Epoch 16, train loss: 4.9566, val loss: 1.9134
+2024-04-14 11:38:14,217 - root - INFO - Epoch 17, train loss: 4.2537, val loss: 2.4188
+2024-04-14 11:38:15,336 - root - INFO - Epoch 18, train loss: 4.2716, val loss: 4.5948
+2024-04-14 11:38:16,413 - root - INFO - Epoch 19, train loss: 4.6339, val loss: 4.1189
+2024-04-14 11:38:17,599 - root - INFO - Epoch 20, train loss: 4.6580, val loss: 5.4437
+2024-04-14 11:38:17,599 - root - INFO - Optimizer: RMSprop
+2024-04-14 11:38:18,791 - root - INFO - Epoch 1, train loss: 5.3970, val loss: 3.8558
+2024-04-14 11:38:19,982 - root - INFO - Epoch 2, train loss: 4.2883, val loss: 3.9558
+2024-04-14 11:38:21,137 - root - INFO - Epoch 3, train loss: 4.2083, val loss: 3.2815
+2024-04-14 11:38:22,371 - root - INFO - Epoch 4, train loss: 4.0422, val loss: 4.1431
+2024-04-14 11:38:23,558 - root - INFO - Epoch 5, train loss: 3.5344, val loss: 4.0696
+2024-04-14 11:38:24,719 - root - INFO - Epoch 6, train loss: 3.0704, val loss: 2.7678
+2024-04-14 11:38:25,986 - root - INFO - Epoch 7, train loss: 3.1405, val loss: 3.8468
+2024-04-14 11:38:27,134 - root - INFO - Epoch 8, train loss: 3.6894, val loss: 2.7545
+2024-04-14 11:38:28,323 - root - INFO - Epoch 9, train loss: 2.6347, val loss: 3.1127
+2024-04-14 11:38:29,476 - root - INFO - Epoch 10, train loss: 3.0537, val loss: 1.8737
+2024-04-14 11:38:30,646 - root - INFO - Epoch 11, train loss: 2.4944, val loss: 4.2218
+2024-04-14 11:38:31,759 - root - INFO - Epoch 12, train loss: 2.7291, val loss: 2.9343
+2024-04-14 11:38:32,931 - root - INFO - Epoch 13, train loss: 2.6638, val loss: 3.0451
+2024-04-14 11:38:34,098 - root - INFO - Epoch 14, train loss: 3.1772, val loss: 3.8572
+2024-04-14 11:38:35,251 - root - INFO - Epoch 15, train loss: 3.2419, val loss: 4.0096
+2024-04-14 11:38:36,414 - root - INFO - Epoch 16, train loss: 2.7859, val loss: 2.7122
+2024-04-14 11:38:37,514 - root - INFO - Epoch 17, train loss: 2.7747, val loss: 2.8376
+2024-04-14 11:38:38,715 - root - INFO - Epoch 18, train loss: 2.4537, val loss: 3.1182
+2024-04-14 11:38:39,952 - root - INFO - Epoch 19, train loss: 2.1685, val loss: 2.8905
+2024-04-14 11:38:41,196 - root - INFO - Epoch 20, train loss: 2.7093, val loss: 3.4173
+2024-04-14 11:38:41,196 - root - INFO - Optimizer: Adam
+2024-04-14 11:38:42,473 - root - INFO - Epoch 1, train loss: 2.8035, val loss: 2.6630
+2024-04-14 11:38:43,753 - root - INFO - Epoch 2, train loss: 2.7322, val loss: 4.1128
+2024-04-14 11:38:44,983 - root - INFO - Epoch 3, train loss: 2.8866, val loss: 2.8550
+2024-04-14 11:38:46,349 - root - INFO - Epoch 4, train loss: 2.4422, val loss: 2.7975
+2024-04-14 11:38:47,537 - root - INFO - Epoch 5, train loss: 2.9150, val loss: 3.4543
+2024-04-14 11:38:48,766 - root - INFO - Epoch 6, train loss: 2.7831, val loss: 4.3305
+2024-04-14 11:38:50,037 - root - INFO - Epoch 7, train loss: 3.0359, val loss: 3.8925
+2024-04-14 11:38:51,208 - root - INFO - Epoch 8, train loss: 2.3960, val loss: 3.4613
+2024-04-14 11:38:52,566 - root - INFO - Epoch 9, train loss: 2.7211, val loss: 4.5434
+2024-04-14 11:38:53,868 - root - INFO - Epoch 10, train loss: 2.1772, val loss: 3.2673
+2024-04-14 11:38:55,208 - root - INFO - Epoch 11, train loss: 2.4653, val loss: 2.9504
+2024-04-14 11:38:56,518 - root - INFO - Epoch 12, train loss: 2.6982, val loss: 2.8831
+2024-04-14 11:38:57,708 - root - INFO - Epoch 13, train loss: 2.2466, val loss: 4.2327
+2024-04-14 11:38:58,969 - root - INFO - Epoch 14, train loss: 2.6810, val loss: 3.0646
+2024-04-14 11:39:00,285 - root - INFO - Epoch 15, train loss: 2.3901, val loss: 1.5129
+2024-04-14 11:39:01,531 - root - INFO - Epoch 16, train loss: 1.9823, val loss: 3.3256
+2024-04-14 11:39:02,767 - root - INFO - Epoch 17, train loss: 2.2004, val loss: 2.4512
+2024-04-14 11:39:03,970 - root - INFO - Epoch 18, train loss: 1.7571, val loss: 3.1507
+2024-04-14 11:39:05,163 - root - INFO - Epoch 19, train loss: 2.2019, val loss: 3.4897
+2024-04-14 11:39:06,391 - root - INFO - Epoch 20, train loss: 2.0279, val loss: 3.4925
+2024-04-14 11:39:06,391 - root - INFO - Optimizer: Adamax
+2024-04-14 11:39:08,030 - root - INFO - Epoch 1, train loss: 1.9816, val loss: 3.8913
+2024-04-14 11:39:09,666 - root - INFO - Epoch 2, train loss: 1.7368, val loss: 3.6494
+2024-04-14 11:39:11,355 - root - INFO - Epoch 3, train loss: 1.6004, val loss: 3.2380
+2024-04-14 11:39:12,952 - root - INFO - Epoch 4, train loss: 1.4985, val loss: 3.1857
+2024-04-14 11:39:14,616 - root - INFO - Epoch 5, train loss: 1.6834, val loss: 3.5372
+2024-04-14 11:39:16,202 - root - INFO - Epoch 6, train loss: 1.4284, val loss: 3.4233
+2024-04-14 11:39:17,768 - root - INFO - Epoch 7, train loss: 1.6621, val loss: 3.5611
+2024-04-14 11:39:19,352 - root - INFO - Epoch 8, train loss: 1.4883, val loss: 3.1497
+2024-04-14 11:39:20,968 - root - INFO - Epoch 9, train loss: 1.3505, val loss: 3.5907
+2024-04-14 11:39:22,707 - root - INFO - Epoch 10, train loss: 1.3147, val loss: 2.0290
+2024-04-14 11:39:24,377 - root - INFO - Epoch 11, train loss: 1.6136, val loss: 3.5799
+2024-04-14 11:39:26,009 - root - INFO - Epoch 12, train loss: 1.5596, val loss: 3.3608
+2024-04-14 11:39:27,654 - root - INFO - Epoch 13, train loss: 1.2558, val loss: 2.7966
+2024-04-14 11:39:29,265 - root - INFO - Epoch 14, train loss: 1.5811, val loss: 4.0779
+2024-04-14 11:39:30,852 - root - INFO - Epoch 15, train loss: 1.5431, val loss: 3.2968
+2024-04-14 11:39:32,483 - root - INFO - Epoch 16, train loss: 1.4633, val loss: 3.9075
+2024-04-14 11:39:34,149 - root - INFO - Epoch 17, train loss: 1.3527, val loss: 3.1489
+2024-04-14 11:39:35,757 - root - INFO - Epoch 18, train loss: 1.4904, val loss: 2.5655
+2024-04-14 11:39:37,401 - root - INFO - Epoch 19, train loss: 1.4627, val loss: 2.7872
+2024-04-14 11:39:39,057 - root - INFO - Epoch 20, train loss: 1.1513, val loss: 3.4691
+2024-04-14 13:30:39,117 - root - INFO - Total number of learnable parameters: 43339
+2024-04-14 13:31:11,842 - root - INFO - Running on device=cuda
+2024-04-14 13:31:12,049 - root - INFO - N_EPOCH: 20
+2024-04-14 13:31:12,049 - root - INFO - LEARNING_RATE: 0.001
+2024-04-14 13:31:12,049 - root - INFO - HIDDEN_LAYER: 20
+2024-04-14 13:31:12,049 - root - INFO - HIDDEN_WIDTH: 32
+2024-04-14 13:31:12,050 - root - INFO - EXPERIMENT_NAME: exp_put_3
+2024-04-14 13:31:12,050 - root - INFO - Model type: Put_1
+2024-04-14 13:31:12,979 - root - INFO - Initial MSE train: 14.8474, Initial MSE val: 10.9449
+2024-04-14 13:31:14,779 - root - INFO - Total number of learnable parameters: 22635
+2024-04-14 13:31:16,654 - root - INFO - Optimizer: SGD
+2024-04-14 13:31:18,200 - root - INFO - Epoch 1, train loss: 9.1955, val loss: 5.1524
+2024-04-14 13:31:19,739 - root - INFO - Epoch 2, train loss: 7.8834, val loss: 5.0879
+2024-04-14 13:31:21,453 - root - INFO - Epoch 3, train loss: 6.8960, val loss: 4.1807
+2024-04-14 13:31:22,960 - root - INFO - Epoch 4, train loss: 6.5807, val loss: 4.3517
+2024-04-14 13:31:24,546 - root - INFO - Epoch 5, train loss: 6.4247, val loss: 9.2916
+2024-04-14 13:31:26,147 - root - INFO - Epoch 6, train loss: 6.0259, val loss: 7.7201
+2024-04-14 13:31:27,674 - root - INFO - Epoch 7, train loss: 5.9044, val loss: 6.4130
+2024-04-14 13:31:29,219 - root - INFO - Epoch 8, train loss: 6.0841, val loss: 6.1744
+2024-04-14 13:31:30,715 - root - INFO - Epoch 9, train loss: 5.5615, val loss: 13.3723
+2024-04-14 13:31:32,268 - root - INFO - Epoch 10, train loss: 5.9138, val loss: 6.2888
+2024-04-14 13:31:33,807 - root - INFO - Epoch 11, train loss: 5.6317, val loss: 6.1579
+2024-04-14 13:31:35,284 - root - INFO - Epoch 12, train loss: 5.5018, val loss: 3.1195
+2024-04-14 13:31:36,783 - root - INFO - Epoch 13, train loss: 5.4525, val loss: 4.2759
+2024-04-14 13:31:38,304 - root - INFO - Epoch 14, train loss: 5.4936, val loss: 4.4585
+2024-04-14 13:31:39,848 - root - INFO - Epoch 15, train loss: 5.6708, val loss: 18.1989
+2024-04-14 13:31:41,346 - root - INFO - Epoch 16, train loss: 5.5942, val loss: 4.8457
+2024-04-14 13:31:42,921 - root - INFO - Epoch 17, train loss: 5.4849, val loss: 3.4343
+2024-04-14 13:31:44,492 - root - INFO - Epoch 18, train loss: 5.5061, val loss: 6.9590
+2024-04-14 13:31:45,962 - root - INFO - Epoch 19, train loss: 5.2824, val loss: 3.4698
+2024-04-14 13:31:47,481 - root - INFO - Epoch 20, train loss: 5.2094, val loss: 34.0215
+2024-04-14 13:31:47,481 - root - INFO - Optimizer: RMSprop
+2024-04-14 13:31:49,138 - root - INFO - Epoch 1, train loss: 5.5084, val loss: 2.9995
+2024-04-14 13:31:50,779 - root - INFO - Epoch 2, train loss: 4.9453, val loss: 2.7193
+2024-04-14 13:31:52,351 - root - INFO - Epoch 3, train loss: 5.1465, val loss: 2.5402
+2024-04-14 13:31:53,939 - root - INFO - Epoch 4, train loss: 5.2806, val loss: 2.3286
+2024-04-14 13:31:55,516 - root - INFO - Epoch 5, train loss: 5.2016, val loss: 2.5791
+2024-04-14 13:31:57,082 - root - INFO - Epoch 6, train loss: 5.0851, val loss: 4.4776
+2024-04-14 13:31:58,667 - root - INFO - Epoch 7, train loss: 5.1262, val loss: 3.2209
+2024-04-14 13:32:00,298 - root - INFO - Epoch 8, train loss: 4.9387, val loss: 2.7019
+2024-04-14 13:32:01,902 - root - INFO - Epoch 9, train loss: 4.8740, val loss: 2.7831
+2024-04-14 13:32:03,455 - root - INFO - Epoch 10, train loss: 5.1219, val loss: 2.6374
+2024-04-14 13:32:05,018 - root - INFO - Epoch 11, train loss: 4.9312, val loss: 3.8171
+2024-04-14 13:32:06,593 - root - INFO - Epoch 12, train loss: 5.1376, val loss: 3.3597
+2024-04-14 13:32:08,203 - root - INFO - Epoch 13, train loss: 4.8749, val loss: 2.8233
+2024-04-14 13:32:09,817 - root - INFO - Epoch 14, train loss: 4.8159, val loss: 3.0976
+2024-04-14 13:32:11,344 - root - INFO - Epoch 15, train loss: 4.5604, val loss: 2.9060
+2024-04-14 13:32:12,973 - root - INFO - Epoch 16, train loss: 4.7554, val loss: 3.1368
+2024-04-14 13:32:14,563 - root - INFO - Epoch 17, train loss: 4.9667, val loss: 3.1128
+2024-04-14 13:32:16,105 - root - INFO - Epoch 18, train loss: 4.9354, val loss: 3.3167
+2024-04-14 13:32:17,659 - root - INFO - Epoch 19, train loss: 4.7182, val loss: 3.2435
+2024-04-14 13:32:19,172 - root - INFO - Epoch 20, train loss: 4.8502, val loss: 3.0548
+2024-04-14 13:32:19,172 - root - INFO - Optimizer: Adam
+2024-04-14 13:32:20,865 - root - INFO - Epoch 1, train loss: 4.7948, val loss: 3.0389
+2024-04-14 13:32:22,659 - root - INFO - Epoch 2, train loss: 4.9380, val loss: 1.9505
+2024-04-14 13:32:24,376 - root - INFO - Epoch 3, train loss: 4.4676, val loss: 3.4011
+2024-04-14 13:32:26,125 - root - INFO - Epoch 4, train loss: 5.1292, val loss: 3.6483
+2024-04-14 13:32:27,782 - root - INFO - Epoch 5, train loss: 4.4852, val loss: 4.0246
+2024-04-14 13:32:29,439 - root - INFO - Epoch 6, train loss: 4.7740, val loss: 3.2052
+2024-04-14 13:32:31,125 - root - INFO - Epoch 7, train loss: 4.5239, val loss: 3.7026
+2024-04-14 13:32:32,770 - root - INFO - Epoch 8, train loss: 4.1965, val loss: 5.2551
+2024-04-14 13:32:34,456 - root - INFO - Epoch 9, train loss: 4.5702, val loss: 3.6162
+2024-04-14 13:32:36,117 - root - INFO - Epoch 10, train loss: 4.6145, val loss: 4.0810
+2024-04-14 13:32:37,855 - root - INFO - Epoch 11, train loss: 4.2945, val loss: 8.0051
+2024-04-14 13:32:39,482 - root - INFO - Epoch 12, train loss: 4.3507, val loss: 5.1333
+2024-04-14 13:32:41,104 - root - INFO - Epoch 13, train loss: 4.2198, val loss: 3.9701
+2024-04-14 13:32:42,760 - root - INFO - Epoch 14, train loss: 3.8430, val loss: 3.9001
+2024-04-14 13:32:44,418 - root - INFO - Epoch 15, train loss: 4.0610, val loss: 4.1507
+2024-04-14 13:32:46,084 - root - INFO - Epoch 16, train loss: 4.2718, val loss: 4.8847
+2024-04-14 13:32:47,767 - root - INFO - Epoch 17, train loss: 4.4354, val loss: 4.6122
+2024-04-14 13:32:49,417 - root - INFO - Epoch 18, train loss: 4.1189, val loss: 10.9307
+2024-04-14 13:32:51,066 - root - INFO - Epoch 19, train loss: 3.7032, val loss: 6.7891
+2024-04-14 13:32:52,833 - root - INFO - Epoch 20, train loss: 3.8536, val loss: 30.2731
+2024-04-14 13:32:52,833 - root - INFO - Optimizer: Adamax
+2024-04-14 13:32:55,268 - root - INFO - Epoch 1, train loss: 3.3958, val loss: 5.3707
+2024-04-14 13:32:57,615 - root - INFO - Epoch 2, train loss: 2.9790, val loss: 5.5762
+2024-04-14 13:32:59,936 - root - INFO - Epoch 3, train loss: 2.9597, val loss: 5.5784
+2024-04-14 13:33:02,268 - root - INFO - Epoch 4, train loss: 2.5598, val loss: 10.1392
+2024-04-14 13:33:04,634 - root - INFO - Epoch 5, train loss: 3.6810, val loss: 9.6421
+2024-04-14 13:33:07,071 - root - INFO - Epoch 6, train loss: 2.9716, val loss: 21.3859
+2024-04-14 13:33:09,459 - root - INFO - Epoch 7, train loss: 2.8171, val loss: 16.7047
+2024-04-14 13:33:11,813 - root - INFO - Epoch 8, train loss: 2.7012, val loss: 23.2262
+2024-04-14 13:33:14,150 - root - INFO - Epoch 9, train loss: 2.6584, val loss: 30.2165
+2024-04-14 13:33:16,542 - root - INFO - Epoch 10, train loss: 2.5114, val loss: 48.1626
+2024-04-14 13:33:18,967 - root - INFO - Epoch 11, train loss: 2.2505, val loss: 175.2636
+2024-04-14 13:33:21,332 - root - INFO - Epoch 12, train loss: 1.9925, val loss: 133.9439
+2024-04-14 13:33:23,745 - root - INFO - Epoch 13, train loss: 2.3850, val loss: 6.6850
+2024-04-14 13:33:26,156 - root - INFO - Epoch 14, train loss: 2.5695, val loss: 4.9455
+2024-04-14 13:33:28,549 - root - INFO - Epoch 15, train loss: 2.5651, val loss: 7.7196
+2024-04-14 13:33:30,885 - root - INFO - Epoch 16, train loss: 2.4046, val loss: 12.4209
+2024-04-14 13:33:33,244 - root - INFO - Epoch 17, train loss: 2.7952, val loss: 93.5663
+2024-04-14 13:33:35,610 - root - INFO - Epoch 18, train loss: 2.2296, val loss: 71.7110
+2024-04-14 13:33:37,980 - root - INFO - Epoch 19, train loss: 2.0798, val loss: 37.2505
+2024-04-14 13:33:40,348 - root - INFO - Epoch 20, train loss: 2.2494, val loss: 47.4726
+2024-04-14 13:35:11,511 - root - INFO - Running on device=cuda
+2024-04-14 13:35:11,696 - root - INFO - N_EPOCH: 20
+2024-04-14 13:35:11,696 - root - INFO - LEARNING_RATE: 0.0005
+2024-04-14 13:35:11,697 - root - INFO - HIDDEN_LAYER: 20
+2024-04-14 13:35:11,697 - root - INFO - HIDDEN_WIDTH: 32
+2024-04-14 13:35:11,697 - root - INFO - EXPERIMENT_NAME: exp_put_3
+2024-04-14 13:35:11,697 - root - INFO - Model type: Put_1
+2024-04-14 13:35:12,391 - root - INFO - Initial MSE train: 14.7118, Initial MSE val: 11.4871
+2024-04-14 13:35:13,167 - root - INFO - Total number of learnable parameters: 22635
+2024-04-14 13:35:14,520 - root - INFO - Optimizer: SGD
+2024-04-14 13:35:16,052 - root - INFO - Epoch 1, train loss: 10.5946, val loss: 7.7479
+2024-04-14 13:35:17,656 - root - INFO - Epoch 2, train loss: 7.1115, val loss: 4.2446
+2024-04-14 13:35:19,150 - root - INFO - Epoch 3, train loss: 6.8673, val loss: 5.1750
+2024-04-14 13:35:20,726 - root - INFO - Epoch 4, train loss: 6.3020, val loss: 4.0480
+2024-04-14 13:35:22,376 - root - INFO - Epoch 5, train loss: 6.2986, val loss: 3.2826
+2024-04-14 13:35:24,321 - root - INFO - Epoch 6, train loss: 6.3189, val loss: 4.4441
+2024-04-14 13:35:25,945 - root - INFO - Epoch 7, train loss: 6.0951, val loss: 5.4921
+2024-04-14 13:35:27,606 - root - INFO - Epoch 8, train loss: 6.2515, val loss: 3.9990
+2024-04-14 13:35:29,275 - root - INFO - Epoch 9, train loss: 5.8128, val loss: 2.9800
+2024-04-14 13:35:30,874 - root - INFO - Epoch 10, train loss: 5.8435, val loss: 4.3583
+2024-04-14 13:35:32,503 - root - INFO - Epoch 11, train loss: 5.5170, val loss: 5.0721
+2024-04-14 13:35:34,033 - root - INFO - Epoch 12, train loss: 5.5978, val loss: 3.5536
+2024-04-14 13:35:35,630 - root - INFO - Epoch 13, train loss: 5.2226, val loss: 3.9424
+2024-04-14 13:35:37,167 - root - INFO - Epoch 14, train loss: 5.1036, val loss: 3.2575
+2024-04-14 13:35:38,779 - root - INFO - Epoch 15, train loss: 5.4874, val loss: 4.4586
+2024-04-14 13:35:40,351 - root - INFO - Epoch 16, train loss: 5.1716, val loss: 3.0098
+2024-04-14 13:35:41,912 - root - INFO - Epoch 17, train loss: 5.0867, val loss: 3.1253
+2024-04-14 13:35:43,489 - root - INFO - Epoch 18, train loss: 5.2995, val loss: 2.4321
+2024-04-14 13:35:45,075 - root - INFO - Epoch 19, train loss: 5.0147, val loss: 3.7700
+2024-04-14 13:35:46,642 - root - INFO - Epoch 20, train loss: 5.6698, val loss: 3.1976
+2024-04-14 13:35:46,642 - root - INFO - Optimizer: RMSprop
+2024-04-14 13:35:48,322 - root - INFO - Epoch 1, train loss: 5.2044, val loss: 2.7352
+2024-04-14 13:35:50,053 - root - INFO - Epoch 2, train loss: 4.9497, val loss: 3.4233
+2024-04-14 13:35:51,701 - root - INFO - Epoch 3, train loss: 4.8041, val loss: 3.5917
+2024-04-14 13:35:53,313 - root - INFO - Epoch 4, train loss: 5.0249, val loss: 2.5540
+2024-04-14 13:35:54,926 - root - INFO - Epoch 5, train loss: 4.8057, val loss: 3.3509
+2024-04-14 13:35:56,518 - root - INFO - Epoch 6, train loss: 5.0466, val loss: 4.2651
+2024-04-14 13:35:58,202 - root - INFO - Epoch 7, train loss: 4.7344, val loss: 2.5509
+2024-04-14 13:35:59,791 - root - INFO - Epoch 8, train loss: 4.6504, val loss: 3.1759
+2024-04-14 13:36:01,451 - root - INFO - Epoch 9, train loss: 4.7518, val loss: 2.8199
+2024-04-14 13:36:03,067 - root - INFO - Epoch 10, train loss: 4.6296, val loss: 2.4187
+2024-04-14 13:36:04,679 - root - INFO - Epoch 11, train loss: 4.7144, val loss: 2.5408
+2024-04-14 13:36:06,283 - root - INFO - Epoch 12, train loss: 4.6494, val loss: 2.3715
+2024-04-14 13:36:07,905 - root - INFO - Epoch 13, train loss: 4.5790, val loss: 3.6975
+2024-04-14 13:36:09,520 - root - INFO - Epoch 14, train loss: 4.6234, val loss: 3.0294
+2024-04-14 13:36:11,125 - root - INFO - Epoch 15, train loss: 4.4517, val loss: 2.0722
+2024-04-14 13:36:12,714 - root - INFO - Epoch 16, train loss: 4.4854, val loss: 3.0260
+2024-04-14 13:36:14,304 - root - INFO - Epoch 17, train loss: 4.4488, val loss: 1.4384
+2024-04-14 13:36:15,859 - root - INFO - Epoch 18, train loss: 4.6159, val loss: 2.9387
+2024-04-14 13:36:17,454 - root - INFO - Epoch 19, train loss: 4.1599, val loss: 3.2622
+2024-04-14 13:36:19,100 - root - INFO - Epoch 20, train loss: 4.5390, val loss: 2.3519
+2024-04-14 13:36:19,100 - root - INFO - Optimizer: Adam
+2024-04-14 13:36:20,783 - root - INFO - Epoch 1, train loss: 4.4158, val loss: 2.9043
+2024-04-14 13:36:22,510 - root - INFO - Epoch 2, train loss: 4.3319, val loss: 3.2420
+2024-04-14 13:36:24,239 - root - INFO - Epoch 3, train loss: 4.2740, val loss: 2.4167
+2024-04-14 13:36:25,981 - root - INFO - Epoch 4, train loss: 3.9012, val loss: 2.3293
+2024-04-14 13:36:27,674 - root - INFO - Epoch 5, train loss: 3.7632, val loss: 2.1173
+2024-04-14 13:36:29,426 - root - INFO - Epoch 6, train loss: 4.4315, val loss: 2.0693
+2024-04-14 13:36:31,184 - root - INFO - Epoch 7, train loss: 3.6902, val loss: 1.6558
+2024-04-14 13:36:32,980 - root - INFO - Epoch 8, train loss: 3.7648, val loss: 3.3116
+2024-04-14 13:36:34,686 - root - INFO - Epoch 9, train loss: 4.2413, val loss: 3.0179
+2024-04-14 13:36:36,396 - root - INFO - Epoch 10, train loss: 3.6760, val loss: 1.9593
+2024-04-14 13:36:38,094 - root - INFO - Epoch 11, train loss: 3.9740, val loss: 2.8411
+2024-04-14 13:36:39,882 - root - INFO - Epoch 12, train loss: 3.6630, val loss: 2.2988
+2024-04-14 13:36:41,621 - root - INFO - Epoch 13, train loss: 3.7390, val loss: 2.6078
+2024-04-14 13:36:43,365 - root - INFO - Epoch 14, train loss: 2.9982, val loss: 2.2344
+2024-04-14 13:36:45,099 - root - INFO - Epoch 15, train loss: 3.9104, val loss: 6.3185
+2024-04-14 13:36:46,827 - root - INFO - Epoch 16, train loss: 4.2087, val loss: 2.5245
+2024-04-14 13:36:48,565 - root - INFO - Epoch 17, train loss: 3.3365, val loss: 3.6814
+2024-04-14 13:36:50,306 - root - INFO - Epoch 18, train loss: 3.1492, val loss: 2.3779
+2024-04-14 13:36:52,070 - root - INFO - Epoch 19, train loss: 3.0759, val loss: 4.7843
+2024-04-14 13:36:53,832 - root - INFO - Epoch 20, train loss: 4.2323, val loss: 3.1002
+2024-04-14 13:36:53,834 - root - INFO - Optimizer: Adamax
+2024-04-14 13:36:56,261 - root - INFO - Epoch 1, train loss: 3.3843, val loss: 2.2733
+2024-04-14 13:36:58,755 - root - INFO - Epoch 2, train loss: 3.0939, val loss: 2.8825
+2024-04-14 13:37:01,200 - root - INFO - Epoch 3, train loss: 3.0647, val loss: 2.3521
+2024-04-14 13:37:03,659 - root - INFO - Epoch 4, train loss: 2.9527, val loss: 1.8688
+2024-04-14 13:37:06,110 - root - INFO - Epoch 5, train loss: 2.2712, val loss: 2.2776
+2024-04-14 13:37:08,645 - root - INFO - Epoch 6, train loss: 2.3245, val loss: 2.5067
+2024-04-14 13:37:11,088 - root - INFO - Epoch 7, train loss: 2.3934, val loss: 2.2485
+2024-04-14 13:37:13,550 - root - INFO - Epoch 8, train loss: 2.2855, val loss: 2.9544
+2024-04-14 13:37:16,041 - root - INFO - Epoch 9, train loss: 2.4530, val loss: 3.2332
+2024-04-14 13:37:18,600 - root - INFO - Epoch 10, train loss: 2.8562, val loss: 2.6719
+2024-04-14 13:37:21,070 - root - INFO - Epoch 11, train loss: 2.6318, val loss: 4.8055
+2024-04-14 13:37:23,514 - root - INFO - Epoch 12, train loss: 3.0747, val loss: 3.1808
+2024-04-14 13:37:25,856 - root - INFO - Epoch 13, train loss: 2.1697, val loss: 15.9209
+2024-04-14 13:37:28,341 - root - INFO - Epoch 14, train loss: 2.4964, val loss: 3.0639
+2024-04-14 13:37:30,752 - root - INFO - Epoch 15, train loss: 2.4838, val loss: 6.9978
+2024-04-14 13:37:33,280 - root - INFO - Epoch 16, train loss: 2.7388, val loss: 2.5420
+2024-04-14 13:37:35,742 - root - INFO - Epoch 17, train loss: 2.1455, val loss: 3.0816
+2024-04-14 13:37:38,286 - root - INFO - Epoch 18, train loss: 2.2018, val loss: 2.0048
+2024-04-14 13:37:40,838 - root - INFO - Epoch 19, train loss: 2.2439, val loss: 3.0208
+2024-04-14 13:37:43,361 - root - INFO - Epoch 20, train loss: 2.3162, val loss: 2.8660
+2024-04-14 13:42:12,506 - root - INFO - Running on device=cuda
+2024-04-14 13:42:13,274 - root - INFO - N_EPOCH: 200
+2024-04-14 13:42:13,275 - root - INFO - LEARNING_RATE: 3e-05
+2024-04-14 13:42:13,275 - root - INFO - HIDDEN_LAYER: 20
+2024-04-14 13:42:13,276 - root - INFO - HIDDEN_WIDTH: 32
+2024-04-14 13:42:13,276 - root - INFO - EXPERIMENT_NAME: exp_put_3_final
+2024-04-14 13:42:13,276 - root - INFO - Model type: Put_1
+2024-04-14 13:45:51,387 - root - INFO - train set size: (178573, 12)
+2024-04-14 13:45:51,388 - root - INFO - test set size: (44644, 12)
+2024-04-14 13:45:51,390 - root - INFO - Initial MSE train: 32.1117, Initial MSE val: 11.5261
+2024-04-14 13:46:25,591 - root - INFO - Total number of learnable parameters: 22635
+2024-04-14 13:48:19,355 - root - INFO - train set size: (178573, 12)
+2024-04-14 13:48:19,355 - root - INFO - test set size: (44644, 12)
+2024-04-14 13:48:19,356 - root - INFO - Initial MSE train: 31.9483, Initial MSE val: 11.5261
+2024-04-14 13:48:28,307 - root - INFO - train set size: (178573, 12)
+2024-04-14 13:48:28,307 - root - INFO - test set size: (44644, 12)
+2024-04-14 13:48:28,309 - root - INFO - Initial MSE train: 33.0652, Initial MSE val: 11.5261
+2024-04-14 13:48:29,155 - root - INFO - Total number of learnable parameters: 49307
+2024-04-14 13:49:01,262 - root - INFO - train set size: (178573, 12)
+2024-04-14 13:49:01,262 - root - INFO - test set size: (44644, 12)
+2024-04-14 13:49:01,264 - root - INFO - Initial MSE train: 35.3414, Initial MSE val: 11.5261
+2024-04-14 13:50:12,483 - root - INFO - train set size: (178573, 12)
+2024-04-14 13:50:12,483 - root - INFO - test set size: (44644, 12)
+2024-04-14 13:50:12,485 - root - INFO - Initial MSE train: 36.8173, Initial MSE val: 11.5261
+2024-04-14 13:50:21,361 - root - INFO - Total number of learnable parameters: 49307
+2024-04-14 13:50:31,634 - root - INFO - Optimizer: Adamax
+2024-04-14 13:51:12,899 - root - INFO - Epoch 1, train loss: 35.9822, test loss: 11.6264
+2024-04-14 13:58:38,800 - root - INFO - Epoch 11, train loss: 26.0629, test loss: 2.5061
+2024-04-14 14:06:00,798 - root - INFO - Epoch 21, train loss: 25.2268, test loss: 2.5894
+2024-04-14 14:13:24,897 - root - INFO - Epoch 31, train loss: 24.5185, test loss: 2.5093
+2024-04-14 14:20:46,654 - root - INFO - Epoch 41, train loss: 24.1136, test loss: 1.7556
+2024-04-14 14:28:07,691 - root - INFO - Epoch 51, train loss: 23.8782, test loss: 3.4316
+2024-04-14 14:35:15,511 - root - INFO - Epoch 61, train loss: 23.6989, test loss: 2.3340
+2024-04-14 14:42:30,414 - root - INFO - Epoch 71, train loss: 23.6087, test loss: 0.8993
+2024-04-14 14:49:33,899 - root - INFO - Epoch 81, train loss: 23.4893, test loss: 1.3567
+2024-04-14 14:56:01,312 - root - INFO - Epoch 91, train loss: 23.3898, test loss: 1.7784
+2024-04-14 15:02:34,586 - root - INFO - Epoch 101, train loss: 23.3125, test loss: 1.3538
+2024-04-14 15:09:00,292 - root - INFO - Epoch 111, train loss: 23.2415, test loss: 1.6855
+2024-04-14 15:11:45,878 - root - INFO - Optimizer: Adamax
+2024-04-14 15:12:27,690 - root - INFO - Epoch 1, train loss: 23.2015, test loss: 3.8317
+2024-04-14 15:13:06,815 - root - INFO - Epoch 2, train loss: 23.1912, test loss: 1.5563
+2024-04-14 15:13:45,580 - root - INFO - Epoch 3, train loss: 23.2367, test loss: 1.3398
+2024-04-14 15:14:24,637 - root - INFO - Epoch 4, train loss: 23.2007, test loss: 0.9813
+2024-04-14 15:15:03,802 - root - INFO - Epoch 5, train loss: 23.2138, test loss: 2.4918
+2024-04-14 15:15:42,956 - root - INFO - Epoch 6, train loss: 23.1837, test loss: 1.3854
+2024-04-14 15:16:21,797 - root - INFO - Epoch 7, train loss: 23.2036, test loss: 3.0465
+2024-04-14 15:17:00,529 - root - INFO - Epoch 8, train loss: 23.1664, test loss: 1.4260
+2024-04-14 15:17:39,297 - root - INFO - Epoch 9, train loss: 23.1661, test loss: 1.4592
+2024-04-14 15:18:18,127 - root - INFO - Epoch 10, train loss: 23.1887, test loss: 3.0016
+2024-04-14 15:18:55,136 - root - INFO - Epoch 11, train loss: 23.1361, test loss: 1.1594
+2024-04-14 15:19:31,912 - root - INFO - Epoch 12, train loss: 23.1587, test loss: 1.9936

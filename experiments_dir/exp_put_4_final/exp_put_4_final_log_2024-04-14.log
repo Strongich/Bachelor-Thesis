@@ -1,0 +1,35 @@
+2024-04-14 15:41:02,908 - root - INFO - train set size: (178573, 12)
+2024-04-14 15:41:02,908 - root - INFO - test set size: (44644, 12)
+2024-04-14 15:41:02,910 - root - INFO - Initial MSE train: 36.0585, Initial MSE val: 28.539
+2024-04-14 15:47:41,814 - root - INFO - Total number of learnable parameters: 115403
+2024-04-14 15:47:56,546 - root - INFO - Optimizer: Adamax
+2024-04-14 15:48:36,270 - root - INFO - Epoch 1, train loss: 25.3531, test loss: 16.6772
+2024-04-14 15:49:18,079 - root - INFO - Epoch 2, train loss: 24.1290, test loss: 17.1253
+2024-04-14 15:49:55,219 - root - INFO - Epoch 3, train loss: 23.7122, test loss: 15.6624
+2024-04-14 15:50:32,564 - root - INFO - Epoch 4, train loss: 23.4014, test loss: 15.6286
+2024-04-14 15:51:09,793 - root - INFO - Epoch 5, train loss: 23.1318, test loss: 15.0397
+2024-04-14 15:51:47,085 - root - INFO - Epoch 6, train loss: 22.9631, test loss: 16.5119
+2024-04-14 15:52:24,192 - root - INFO - Epoch 7, train loss: 22.8258, test loss: 17.7398
+2024-04-14 15:53:01,382 - root - INFO - Epoch 8, train loss: 22.7185, test loss: 21.4298
+2024-04-14 15:53:38,134 - root - INFO - Epoch 9, train loss: 22.6320, test loss: 18.2094
+2024-04-14 15:54:15,002 - root - INFO - Epoch 10, train loss: 22.4983, test loss: 15.1681
+2024-04-14 15:54:52,237 - root - INFO - Epoch 11, train loss: 22.4780, test loss: 21.9341
+2024-04-14 15:55:29,185 - root - INFO - Epoch 12, train loss: 22.3428, test loss: 15.4702
+2024-04-14 15:56:06,138 - root - INFO - Epoch 13, train loss: 22.2790, test loss: 14.6710
+2024-04-14 15:56:43,176 - root - INFO - Epoch 14, train loss: 22.3132, test loss: 15.4235
+2024-04-14 15:57:20,459 - root - INFO - Epoch 15, train loss: 22.1958, test loss: 15.5749
+2024-04-14 15:57:57,269 - root - INFO - Epoch 16, train loss: 22.1812, test loss: 15.7368
+2024-04-14 15:58:34,159 - root - INFO - Epoch 17, train loss: 22.1853, test loss: 14.2192
+2024-04-14 15:59:11,371 - root - INFO - Epoch 18, train loss: 22.0516, test loss: 14.1263
+2024-04-14 15:59:48,337 - root - INFO - Epoch 19, train loss: 21.9541, test loss: 14.8740
+2024-04-14 16:00:25,448 - root - INFO - Epoch 20, train loss: 22.0302, test loss: 13.8918
+2024-04-14 16:01:02,407 - root - INFO - Epoch 21, train loss: 21.9818, test loss: 14.1052
+2024-04-14 16:01:39,272 - root - INFO - Epoch 22, train loss: 21.9972, test loss: 15.0450
+2024-04-14 16:02:16,554 - root - INFO - Epoch 23, train loss: 22.1641, test loss: 14.3284
+2024-04-14 16:02:53,391 - root - INFO - Epoch 24, train loss: 22.0966, test loss: 15.1625
+2024-04-14 16:03:30,463 - root - INFO - Epoch 25, train loss: 21.9665, test loss: 15.7545
+2024-04-14 16:04:07,710 - root - INFO - Epoch 26, train loss: 21.8638, test loss: 14.7484
+2024-04-14 16:04:44,959 - root - INFO - Epoch 27, train loss: 21.8280, test loss: 14.6563
+2024-04-14 16:05:22,094 - root - INFO - Epoch 28, train loss: 21.8352, test loss: 14.8689
+2024-04-14 16:05:59,215 - root - INFO - Epoch 29, train loss: 21.8902, test loss: 17.0496
+2024-04-14 16:06:36,061 - root - INFO - Epoch 30, train loss: 21.9400, test loss: 15.3410
