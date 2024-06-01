@@ -1,0 +1,121 @@
+2024-06-01 20:09:49,064 - root - INFO - Running on device=cuda
+2024-06-01 20:10:14,758 - root - INFO - N_EPOCH: 50
+2024-06-01 20:10:14,758 - root - INFO - LEARNING_RATE: 0.00075178
+2024-06-01 20:10:14,758 - root - INFO - HIDDEN_LAYER: 24
+2024-06-01 20:10:14,759 - root - INFO - HIDDEN_WIDTH: 64
+2024-06-01 20:10:14,759 - root - INFO - EXPERIMENT_NAME: exp_call_12_gen
+2024-06-01 20:10:14,759 - root - INFO - Model type: AmericanPut_gated3
+2024-06-01 20:10:22,352 - root - INFO - N_EPOCH: 100
+2024-06-01 20:10:22,353 - root - INFO - LEARNING_RATE: 0.00075178
+2024-06-01 20:10:22,353 - root - INFO - HIDDEN_LAYER: 24
+2024-06-01 20:10:22,353 - root - INFO - HIDDEN_WIDTH: 64
+2024-06-01 20:10:22,354 - root - INFO - EXPERIMENT_NAME: exp_call_12_gen
+2024-06-01 20:10:22,354 - root - INFO - Model type: AmericanPut_gated3
+2024-06-01 20:10:23,677 - root - INFO - train set size: (8000, 9)
+2024-06-01 20:10:23,678 - root - INFO - test set size: (2000, 9)
+2024-06-01 20:10:23,679 - root - INFO - Initial MSE train: 3315.4485, Initial MSE val: 3425.7116
+2024-06-01 20:11:07,874 - root - INFO - train set size: (8000, 9)
+2024-06-01 20:11:07,874 - root - INFO - test set size: (2000, 9)
+2024-06-01 20:11:07,875 - root - INFO - Initial MSE train: 3316.5652, Initial MSE val: 3421.2447
+2024-06-01 20:11:08,332 - root - INFO - Total number of learnable parameters: 100365
+2024-06-01 20:11:09,585 - root - INFO - Optimizer: SGD
+2024-06-01 20:11:11,245 - root - INFO - Epoch 1, train loss: 179424.5565, val loss: 22292.7786
+2024-06-01 20:11:12,712 - root - INFO - Epoch 2, train loss: 15658.3640, val loss: 9868.5977
+2024-06-01 20:11:14,192 - root - INFO - Epoch 3, train loss: 7411.7368, val loss: 5025.5230
+2024-06-01 20:11:15,589 - root - INFO - Epoch 4, train loss: 4738.0792, val loss: 3728.3216
+2024-06-01 20:11:17,019 - root - INFO - Epoch 5, train loss: 3384.2485, val loss: 3149.2728
+2024-06-01 20:11:18,685 - root - INFO - Epoch 6, train loss: 2899.4340, val loss: 2507.5801
+2024-06-01 20:11:20,516 - root - INFO - Epoch 7, train loss: 2442.5778, val loss: 2435.9205
+2024-06-01 20:11:22,249 - root - INFO - Epoch 8, train loss: 2339.8686, val loss: 2353.9158
+2024-06-01 20:11:24,199 - root - INFO - Epoch 9, train loss: 2348.2816, val loss: 2421.6865
+2024-06-01 20:11:25,749 - root - INFO - Epoch 10, train loss: 2227.5755, val loss: 2136.9100
+2024-06-01 20:11:27,253 - root - INFO - Epoch 11, train loss: 2265.9626, val loss: 2179.0335
+2024-06-01 20:11:28,728 - root - INFO - Epoch 12, train loss: 2194.6586, val loss: 2202.3683
+2024-06-01 20:11:30,175 - root - INFO - Epoch 13, train loss: 2111.2919, val loss: 2280.9607
+2024-06-01 20:11:31,725 - root - INFO - Epoch 14, train loss: 2053.5615, val loss: 2125.4968
+2024-06-01 20:11:33,199 - root - INFO - Epoch 15, train loss: 2065.3654, val loss: 2062.1088
+2024-06-01 20:11:34,683 - root - INFO - Epoch 16, train loss: 2085.5305, val loss: 2040.8024
+2024-06-01 20:11:36,456 - root - INFO - Epoch 17, train loss: 2072.6498, val loss: 1983.2167
+2024-06-01 20:11:38,083 - root - INFO - Epoch 18, train loss: 2032.3575, val loss: 2322.9572
+2024-06-01 20:11:39,841 - root - INFO - Epoch 19, train loss: 2047.4378, val loss: 1986.6673
+2024-06-01 20:11:41,411 - root - INFO - Epoch 20, train loss: 2078.3487, val loss: 2151.3989
+2024-06-01 20:11:42,855 - root - INFO - Epoch 21, train loss: 2053.7355, val loss: 2340.1474
+2024-06-01 20:11:44,360 - root - INFO - Epoch 22, train loss: 2073.6970, val loss: 2037.0937
+2024-06-01 20:11:45,899 - root - INFO - Epoch 23, train loss: 2061.4475, val loss: 1951.8827
+2024-06-01 20:11:47,430 - root - INFO - Epoch 24, train loss: 2078.8842, val loss: 1973.6584
+2024-06-01 20:11:48,866 - root - INFO - Epoch 25, train loss: 2051.1678, val loss: 1980.9783
+2024-06-01 20:11:50,407 - root - INFO - Epoch 26, train loss: 2042.8877, val loss: 2567.7831
+2024-06-01 20:11:51,903 - root - INFO - Epoch 27, train loss: 2038.7763, val loss: 1925.3778
+2024-06-01 20:11:53,435 - root - INFO - Epoch 28, train loss: 2040.7572, val loss: 1926.8217
+2024-06-01 20:11:55,030 - root - INFO - Epoch 29, train loss: 2018.2526, val loss: 1965.8630
+2024-06-01 20:11:56,612 - root - INFO - Epoch 30, train loss: 2015.3873, val loss: 1961.6819
+2024-06-01 20:11:58,007 - root - INFO - Epoch 31, train loss: 2046.4722, val loss: 2041.8769
+2024-06-01 20:11:59,453 - root - INFO - Epoch 32, train loss: 2024.0184, val loss: 2038.0982
+2024-06-01 20:12:00,863 - root - INFO - Epoch 33, train loss: 2008.1091, val loss: 2018.4446
+2024-06-01 20:12:02,261 - root - INFO - Epoch 34, train loss: 1989.1705, val loss: 1986.3183
+2024-06-01 20:12:03,685 - root - INFO - Epoch 35, train loss: 2025.1578, val loss: 2047.5693
+2024-06-01 20:12:05,108 - root - INFO - Epoch 36, train loss: 2021.7272, val loss: 2045.1949
+2024-06-01 20:12:06,508 - root - INFO - Epoch 37, train loss: 2045.0793, val loss: 1961.7353
+2024-06-01 20:12:07,874 - root - INFO - Epoch 38, train loss: 2001.8017, val loss: 1975.0072
+2024-06-01 20:12:09,361 - root - INFO - Epoch 39, train loss: 2013.8809, val loss: 2158.3140
+2024-06-01 20:12:10,717 - root - INFO - Epoch 40, train loss: 2027.3195, val loss: 2009.1905
+2024-06-01 20:12:12,143 - root - INFO - Epoch 41, train loss: 1997.0971, val loss: 2354.5696
+2024-06-01 20:12:13,510 - root - INFO - Epoch 42, train loss: 2034.8757, val loss: 2123.2350
+2024-06-01 20:12:14,882 - root - INFO - Epoch 43, train loss: 1990.0233, val loss: 1989.3415
+2024-06-01 20:12:16,245 - root - INFO - Epoch 44, train loss: 2010.4602, val loss: 2059.6829
+2024-06-01 20:12:17,630 - root - INFO - Epoch 45, train loss: 2008.1973, val loss: 1994.8308
+2024-06-01 20:12:19,062 - root - INFO - Epoch 46, train loss: 2030.6813, val loss: 1969.9869
+2024-06-01 20:12:20,512 - root - INFO - Epoch 47, train loss: 2005.2987, val loss: 2017.3631
+2024-06-01 20:12:21,953 - root - INFO - Epoch 48, train loss: 2022.6059, val loss: 2058.5246
+2024-06-01 20:12:23,418 - root - INFO - Epoch 49, train loss: 1984.7106, val loss: 2174.5212
+2024-06-01 20:12:24,860 - root - INFO - Epoch 50, train loss: 1976.9264, val loss: 1988.5604
+2024-06-01 20:12:26,311 - root - INFO - Epoch 51, train loss: 1948.9563, val loss: 2040.0080
+2024-06-01 20:12:27,799 - root - INFO - Epoch 52, train loss: 1968.7709, val loss: 1953.7519
+2024-06-01 20:12:29,229 - root - INFO - Epoch 53, train loss: 1962.8403, val loss: 2006.6976
+2024-06-01 20:12:30,654 - root - INFO - Epoch 54, train loss: 1952.8267, val loss: 2030.2729
+2024-06-01 20:12:32,111 - root - INFO - Epoch 55, train loss: 1954.0239, val loss: 1996.1869
+2024-06-01 20:12:33,481 - root - INFO - Epoch 56, train loss: 1953.9506, val loss: 2020.7288
+2024-06-01 20:12:34,930 - root - INFO - Epoch 57, train loss: 1932.1221, val loss: 2047.9102
+2024-06-01 20:12:36,333 - root - INFO - Epoch 58, train loss: 1934.1123, val loss: 2013.4671
+2024-06-01 20:12:37,779 - root - INFO - Epoch 59, train loss: 1926.0906, val loss: 1974.9283
+2024-06-01 20:12:39,181 - root - INFO - Epoch 60, train loss: 1932.9303, val loss: 2010.5182
+2024-06-01 20:12:40,562 - root - INFO - Epoch 61, train loss: 1942.5612, val loss: 1967.3090
+2024-06-01 20:12:42,000 - root - INFO - Epoch 62, train loss: 1935.5722, val loss: 1979.7742
+2024-06-01 20:12:43,403 - root - INFO - Epoch 63, train loss: 1939.0327, val loss: 1990.8204
+2024-06-01 20:12:44,798 - root - INFO - Epoch 64, train loss: 1933.4716, val loss: 1974.0086
+2024-06-01 20:12:46,235 - root - INFO - Epoch 65, train loss: 1919.4114, val loss: 2049.5035
+2024-06-01 20:12:47,640 - root - INFO - Epoch 66, train loss: 1923.5910, val loss: 1973.0510
+2024-06-01 20:12:49,054 - root - INFO - Epoch 67, train loss: 1919.3104, val loss: 1932.4372
+2024-06-01 20:12:50,424 - root - INFO - Epoch 68, train loss: 1922.0687, val loss: 1964.9266
+2024-06-01 20:12:51,847 - root - INFO - Epoch 69, train loss: 1924.5825, val loss: 1942.9313
+2024-06-01 20:12:53,381 - root - INFO - Epoch 70, train loss: 1933.5558, val loss: 1953.3574
+2024-06-01 20:12:54,785 - root - INFO - Epoch 71, train loss: 1932.7879, val loss: 1965.2559
+2024-06-01 20:12:56,147 - root - INFO - Epoch 72, train loss: 1929.5337, val loss: 1969.6993
+2024-06-01 20:12:57,570 - root - INFO - Epoch 73, train loss: 1926.3095, val loss: 1993.6995
+2024-06-01 20:12:59,115 - root - INFO - Epoch 74, train loss: 1911.8285, val loss: 1959.9425
+2024-06-01 20:13:00,547 - root - INFO - Epoch 75, train loss: 1909.4118, val loss: 1961.1836
+2024-06-01 20:13:01,949 - root - INFO - Epoch 76, train loss: 1908.1373, val loss: 1959.2599
+2024-06-01 20:13:03,432 - root - INFO - Epoch 77, train loss: 1910.9687, val loss: 1955.9908
+2024-06-01 20:13:04,903 - root - INFO - Epoch 78, train loss: 1913.8378, val loss: 1958.4660
+2024-06-01 20:13:06,340 - root - INFO - Epoch 79, train loss: 1899.0428, val loss: 1972.8702
+2024-06-01 20:13:07,780 - root - INFO - Epoch 80, train loss: 1895.9904, val loss: 1959.2882
+2024-06-01 20:13:09,242 - root - INFO - Epoch 81, train loss: 1891.7598, val loss: 1966.0646
+2024-06-01 20:13:10,725 - root - INFO - Epoch 82, train loss: 1884.5904, val loss: 1980.2719
+2024-06-01 20:13:12,136 - root - INFO - Epoch 83, train loss: 1884.6158, val loss: 1949.1670
+2024-06-01 20:13:13,564 - root - INFO - Epoch 84, train loss: 1885.4859, val loss: 1967.7732
+2024-06-01 20:13:15,043 - root - INFO - Epoch 85, train loss: 1885.2955, val loss: 1967.0241
+2024-06-01 20:13:16,492 - root - INFO - Epoch 86, train loss: 1889.0376, val loss: 1960.7551
+2024-06-01 20:13:17,984 - root - INFO - Epoch 87, train loss: 1887.8047, val loss: 1960.2263
+2024-06-01 20:13:19,399 - root - INFO - Epoch 88, train loss: 1887.8001, val loss: 1964.0912
+2024-06-01 20:13:20,800 - root - INFO - Epoch 89, train loss: 1882.4781, val loss: 1971.1324
+2024-06-01 20:13:22,295 - root - INFO - Epoch 90, train loss: 1884.7375, val loss: 1960.1958
+2024-06-01 20:13:23,781 - root - INFO - Epoch 91, train loss: 1879.4969, val loss: 1966.0527
+2024-06-01 20:13:25,198 - root - INFO - Epoch 92, train loss: 1880.7713, val loss: 1954.1827
+2024-06-01 20:13:26,612 - root - INFO - Epoch 93, train loss: 1878.7233, val loss: 1952.8170
+2024-06-01 20:13:28,022 - root - INFO - Epoch 94, train loss: 1877.7697, val loss: 1951.2677
+2024-06-01 20:13:29,450 - root - INFO - Epoch 95, train loss: 1877.1780, val loss: 1952.6472
+2024-06-01 20:13:30,864 - root - INFO - Epoch 96, train loss: 1877.1391, val loss: 1953.9682
+2024-06-01 20:13:32,277 - root - INFO - Epoch 97, train loss: 1876.1982, val loss: 1952.8341
+2024-06-01 20:13:33,671 - root - INFO - Epoch 98, train loss: 1875.7801, val loss: 1952.7911
+2024-06-01 20:13:35,110 - root - INFO - Epoch 99, train loss: 1875.3917, val loss: 1952.6905
+2024-06-01 20:13:36,508 - root - INFO - Epoch 100, train loss: 1874.9254, val loss: 1952.6915
